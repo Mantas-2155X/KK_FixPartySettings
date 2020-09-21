@@ -1,5 +1,7 @@
 # KK_FixPartySettings
 
+# Replaced by IllusionFixes https://github.com/IllusionMods/IllusionFixes
+
 This plugin enables and shows the full After School DLC settings for Koikatsu Party
 
 **Download**:
